@@ -4,8 +4,7 @@
 
 **One-Click JavaScript Toggle (OJT)** is a Chrome Extension to enable/disable JavaScript as quickly as possible.  
 
-This is a fork of the amazing [Quick JavaScript Switcher][qjs] by Maxime Le Breton, which unfortunately seems abandoned. The goal of OJT is to fix up some bugs
-in OJT as well as add some minor features.
+This is a fork of the amazing [Quick JavaScript Switcher][qjs] by Max Timkovich. It tends to improve the extension and add more design features and functions that will permit people to read online articles for free. 
 
 ## Features
 * Disable JavaScript immediately for the current page via browser button or right click menu.
