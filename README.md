@@ -1,4 +1,4 @@
-# One-Click JavaScript Toggle
+# One-Click JavaScript Toggle To Read Online Magazines For Free
 
 *a fork of Quick Javascript Switcher*
 
