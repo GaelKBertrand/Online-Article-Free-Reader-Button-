@@ -1,6 +1,5 @@
 # JavaScript Toggle To Read Online Magazines/Articles  For Free
 
-*a fork of Quick Javascript Switcher*
 
 **Online Article Free Reader Button** is a Chrome Extension to enable/disable JavaScript as quickly as possible and allows you to readable online articles for free without subscribing or paying. 
 
