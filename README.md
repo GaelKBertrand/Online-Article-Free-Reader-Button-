@@ -14,6 +14,8 @@ I added more design and functionality features to be able to read online article
 
 ## How to install it and start using it
 
+Donwload it from [Click here to download it][githubdown]
+
 For Chrome users, get it from [Chrome Web Store][webstore].
 
 ## Contribution
@@ -28,4 +30,4 @@ This is an open source project. If you want to contribute to this, have a quick 
 [qjs]: https://github.com/maximelebreton/quick-javascript-switcher
 [ojt]: https://github.com/mtimkovich/one-click-javascript-toggle
 [gnuli]: https://github.com/GaelKBertrand/Online-Article-Free-Reader-Button-/blob/master/license.txt
- 
+[githubdown]: 
