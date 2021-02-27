@@ -1,10 +1,10 @@
-{	"name"					: "One-Click JavaScript Toggle"
+{	"name"					: "Javascript toogle: Read Online Articles For Free"
 ,   "short_name"            : "ojt"
-, 	"version"				: "1.5.2"
+, 	"version"				: "1.5.3"
 ,	"minimum_chrome_version": "16.0"
 ,	"manifest_version"		: 2
-,	"homepage_url"			: "https://github.com/mtimkovich/one-click-javascript-toggle"
-,	"description"			: "Fastest way to enable/disable JavaScript"
+,	"homepage_url"			: "https://github.com/GaelKBertrand/Online-Article-Free-Reader-Button-"
+,	"description"			: "Read online newspapers and articles for free. No more paywalls."
 
 ,	"icons"					:
 		{ "16"				: "icons/icon.png"
