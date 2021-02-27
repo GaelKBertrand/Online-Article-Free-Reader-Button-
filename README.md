@@ -16,12 +16,6 @@ I added more design and functionality features to be able to read online article
 
 For Chrome users, get it from [Chrome Web Store][webstore].
 
-### Manual Install
-
-*Alternatively, you can [download the .zip extension][zip-extension], go to the [Extensions page][chrome-extensions], open the Developer mode, and click on "Load unpacked extension".  
-
-*Find the extension folder, and press OK.
-
 ## Contribution
 
 This is an open source project. If you want to contribute to this, have a quick glance on the [license][gnuli] and contribute accordingly. 
