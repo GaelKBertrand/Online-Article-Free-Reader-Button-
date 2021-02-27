@@ -5,7 +5,7 @@
 
 This project is forked from previous projects done by [Max Timkovich][qjs] and [Maxime Le Breton][ojt]. 
 
-I added more design and functionality features to be able to read online articles which were required for my classes such as The New York Times, The Washington Post, The Guardian, Forbes Magazines, etc. This will permit people to read online articles for free. 
+I added more design and functionality features to be able to read online articles which were required for my classes, such as The New York Times, The Washington Post, The Guardian, Forbes Magazines, etc. This will permit people to read online articles for free. 
 
 ## The features
 * Disable JavaScript immediately for the current page via browser button or right click menu. This blocks the subscription requests or paywalls. 
