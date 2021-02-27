@@ -3,7 +3,9 @@
 
 **Online Article Free Reader Button** is a Chrome Extension to enable/disable JavaScript as quickly as possible and allows you to readable online articles for free without subscribing or paying. 
 
-This project is forked from previous projects done by [Max Timkovich][qjs] and [Maxime Le Breton][ojs]. I added more design and functionality features to be able to read online articles which were required for my classes such as The New York Times, The Washington Post, The Guardia, Forbes Magazines, etc. This will permit people to read online articles for free. 
+This project is forked from previous projects done by [Max Timkovich][qjs] and [Maxime Le Breton][ojt]. 
+
+I added more design and functionality features to be able to read online articles which were required for my classes such as The New York Times, The Washington Post, The Guardian, Forbes Magazines, etc. This will permit people to read online articles for free. 
 
 ## The features
 * Disable JavaScript immediately for the current page via browser button or right click menu. This blocks the subscription requests or paywalls. 
