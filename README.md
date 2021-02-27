@@ -22,8 +22,16 @@ For Chrome users, get it from [Chrome Web Store][webstore].
 
 *Find the extension folder, and press OK.
 
+## Contribution
+
+This is an open source project. If you want to contribute to this, have a quick glance on the [license][gnuli] and contribute accordingly. 
+
+
+
 [zip-extension]:https://github.com/GaelKBertrand/Online-Article-Free-Reader-Button-/zipball/master
 [webstore]: https://chrome.google.com/webstore/detail/quick-javascript-switcher/ahjfodbngfpdppljbkhcfhcfdagfgcnj
 [chrome-extensions]:chrome://extensions
 [qjs]: https://github.com/maximelebreton/quick-javascript-switcher
 [ojt]: https://github.com/mtimkovich/one-click-javascript-toggle
+[gnuli]: https://github.com/GaelKBertrand/Online-Article-Free-Reader-Button-/blob/master/license.txt
+ 
