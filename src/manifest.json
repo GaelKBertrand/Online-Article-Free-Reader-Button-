@@ -1,5 +1,5 @@
-{	"name"					: "Javascript toogle: Read Online Articles For Free"
-,   "short_name"            : "ojt"
+{	"name"					: "JS toogle: Read Online Articles For Free"
+,   "short_name"            : "ROAF"
 , 	"version"				: "1.5.3"
 ,	"minimum_chrome_version": "16.0"
 ,	"manifest_version"		: 2
