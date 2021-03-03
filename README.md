@@ -14,6 +14,10 @@ I added more design and functionality features to be able to read online article
 
 ## How to install it and start using it
 
+1. Donwload the zip file from here: 
+
+
+
 For Chrome users, get it from [Chrome Web Store][webstore].
 
 ## Contribution
